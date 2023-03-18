@@ -1,4 +1,0 @@
-D:\Github\GrafikaBeadando\Grafika\x64\Release\Grafika.exe
-D:\Github\GrafikaBeadando\Elso_Beadando\x64\Release\Grafika.exe
-D:\Github\GrafikaBeadando\Plain_Project\x64\Release\Grafika.exe
-D:\Github\Computer_Graphics\Colored_Triangle_Project\x64\Release\Grafika.exe
