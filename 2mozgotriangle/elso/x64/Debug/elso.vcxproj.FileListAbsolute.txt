@@ -1,0 +1,8 @@
+D:\Recordings\PTI\1.felev\graf\elso\x64\Debug\elso.exe
+D:\Recordings\PTI\1.felev\graf\elso\x64\Debug\elso.pdb
+D:\Recordings\PTI\1.felev\graf\negyzet_pirosvonal\elso\x64\Debug\elso.exe
+D:\Recordings\PTI\1.felev\graf\negyzet_pirosvonal\elso\x64\Debug\elso.pdb
+D:\Recordings\PTI\1.felev\graf\beadando\elso\x64\Debug\elso.exe
+D:\Recordings\PTI\1.felev\graf\beadando\elso\x64\Debug\elso.pdb
+D:\Recordings\PTI\1.felev\graf\gyak\2mozgotriangle\elso\x64\Debug\elso.exe
+D:\Recordings\PTI\1.felev\graf\gyak\2mozgotriangle\elso\x64\Debug\elso.pdb
