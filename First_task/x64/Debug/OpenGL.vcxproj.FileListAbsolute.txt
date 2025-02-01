@@ -1,5 +1,0 @@
-D:\Github\Computer_Graphics\OpenGL\x64\Debug\OpenGL.exe
-D:\Github\Computer_Graphics\Colored_Rectangle\x64\Debug\OpenGL.exe
-D:\Github\Computer_Graphics\Colored_Circle\x64\Debug\OpenGL.exe
-D:\Github\Computer_Graphics\First_task\x64\Debug\OpenGL.exe
-D:\First_task\x64\Debug\OpenGL.exe

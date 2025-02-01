@@ -1,0 +1,35 @@
+# Ignore Visual Studio specific files
+.vs/
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+
+# Ignore build directories
+x64/
+Debug/
+Release/
+bin/
+obj/
+
+# Ignore compiled binaries and libraries
+*.dll
+*.exe
+*.lib
+*.pdb
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore IDE project settings
+*.VC.db
+*.filters
+*.sdf
+*.ipch
+
+# Ignore upgrade logs
+UpgradeLog.htm
+
+# Ignore user-specific settings
+*.user

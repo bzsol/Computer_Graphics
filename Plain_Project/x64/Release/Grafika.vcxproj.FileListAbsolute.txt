@@ -1,3 +1,0 @@
-D:\Github\GrafikaBeadando\Grafika\x64\Release\Grafika.exe
-D:\Github\GrafikaBeadando\Elso_Beadando\x64\Release\Grafika.exe
-D:\Github\Computer_Graphics\Plain_Project\x64\Release\Grafika.exe
